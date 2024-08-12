@@ -4,3 +4,4 @@ podemos observar que la puntuación de rendimiento del empleado más alto fue de
 Por el contrario se observa que el departamento de ingeniería de software los cuales cuentan con el menor salario entre los departamentos tienen la menor puntuación de satisfacción.
 
 Se observa en las gráficas que el género con mayor llegadas tarde en los últimos 30 días son los hombres.
+https://public.tableau.com/app/profile/miriam.chavez8574/viz/casopractico_17234326564610/Historia1
